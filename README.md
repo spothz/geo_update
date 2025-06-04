@@ -3,7 +3,7 @@
 1. Автоматичее обновления правил geogeosite.dat и geoio.dat по пути /usr/share/xray/
 из https://github.com/runetfreedom/russia-v2ray-rules-dat:
 
-       cd /sbin && wget https://raw.githubusercontent.com/Spothz/clear_cache_openwrt/refs/heads/main/rules_update.sh
+       cd /sbin && wget https://raw.githubusercontent.com/spothz/geo_update_openwrt/refs/heads/main/rules_update.sh
 
 2. Выдать права:
 
